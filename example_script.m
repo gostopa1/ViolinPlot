@@ -1,4 +1,4 @@
-figure(1)
+f1=figure(1)
 clf
 hold
 N=7000;
@@ -32,3 +32,5 @@ h=violin_funct(str2,0.5,1,[1 1 0]);
 
 ylabel('Distribution')
 title('Example use of violin plot')
+
+print('example_image.png','-dpng','-r300')
