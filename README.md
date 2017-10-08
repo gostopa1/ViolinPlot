@@ -1,2 +1,2 @@
-<img src="./example_image.png" align="left" height="600" width="350" ></a>
+<img src="./example_image.png" align="left" height="200" width="400" ></a>
 
